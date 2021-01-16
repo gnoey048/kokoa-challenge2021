@@ -21,10 +21,6 @@
   bottom: 15px;
 }
 .nav__notification-p {
-  background-color: tomato;
-  height: 8px;
-  width: 8px;
-  border-radius: 50%;
   position: absolute;
   left: 30px;
   top: -15px;
